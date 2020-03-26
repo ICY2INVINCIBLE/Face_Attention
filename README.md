@@ -12,4 +12,9 @@ These photos are extracted one frame from each video and their resolution has be
 **2.Line 198 and 199 change the path where your train and validation put.** <br>
 **3.Line 153 change to your own path.**<br>
 
-Good Night!
+# Result
+I used _CNN.py again and here are the best results.<br>
+train loss: 0.872401<br>
+train acc: 0.477598<br>
+validation loss: 1.048778<br>
+validation acc: 0.594460<br>
