@@ -21,3 +21,6 @@ train loss: 0.872401<br>
 train acc: 0.477598<br>
 validation loss: 1.048778<br>
 validation acc: 0.594460<br>
+
+# csv
+Each col represents bordom, engagement, confusion, frustration.
